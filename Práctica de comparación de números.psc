@@ -53,6 +53,9 @@ Algoritmo Solución_Problema
 	Escribir "El número mayor es:", mayor
     Escribir "El número del centro es:", centro 
     Escribir "El número menor es:", menor
-
+	
+	Si (num1 == num2) y (num2 == num3) entonces
+        Escribir "Los números son iguales"
+    FinSi
 FinAlgoritmo
 
